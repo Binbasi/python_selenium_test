@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6489dd21-a760-4127-aa76-9cff94f99695" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Gherkin feature file" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YKbQhBOivzK9MSprx12x4XXsES" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Halil\Desktop\Python\A1_test_2\features\steps" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Halil\Desktop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="A1_Test_pass" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Halil\Desktop\Python\env\A1_test_2\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Halil\Desktop\Python\A1_test_2\features\steps\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_behave" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="A1_Test_pass" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features/steps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features/steps/test_behave.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_behave" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6489dd21-a760-4127-aa76-9cff94f99695" name="Default Changelist" comment="" />
+      <created>1582694218025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582694218025</updated>
+      <workItem from="1582712077361" duration="145000" />
+      <workItem from="1582712447609" duration="2091000" />
+      <workItem from="1582714677142" duration="1088000" />
+      <workItem from="1582717794132" duration="2669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582694518581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582694518581" />
+    <state x="514" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582706386641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="514" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582706386641" />
+    <state x="771" y="170" key="FileChooserDialogImpl" timestamp="1582705197750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="771" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582705197750" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582720675499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582720675499" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582720675499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582720675499" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582720675499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582720675499" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582720675499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582720675499" />
+    <state width="745" height="261" key="GridCell.Tab.1.bottom" timestamp="1582699834898">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582699834898" />
+    <state width="745" height="261" key="GridCell.Tab.1.center" timestamp="1582699834897">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582699834897" />
+    <state width="745" height="261" key="GridCell.Tab.1.left" timestamp="1582699834897">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582699834897" />
+    <state width="745" height="261" key="GridCell.Tab.1.right" timestamp="1582699834898">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582699834898" />
+    <state x="555" y="58" key="SettingsEditor" timestamp="1582712757333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582712757333" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582717793882">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582717793882" />
+    <state x="521" y="334" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1582720467398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="334" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1582720467398" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/A1_Test_pass$test_behave.coverage" NAME="test_behave Coverage Results" MODIFIED="1582719197092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/A1_Test_pass$A1_test_2.coverage" NAME="main Coverage Results" MODIFIED="1582720675483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
