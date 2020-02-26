@@ -21,19 +21,19 @@ class A1_test(unittest.TestCase):
                 EC.presence_of_element_located((By.ID, "onetrust-accept-btn-handler")))
         finally:
             driver.find_element_by_id("onetrust-accept-btn-handler").click()
-            pass
+            
 
         try:
             element = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.LINK_TEXT, "Lösungen")))
         finally:
             driver.find_element_by_link_text("Lösungen").click()
-            pass
+            
 
         try:
             element = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.LINK_TEXT, "Exoscale: Die Europäische Cloud Infrastruktur")))
         finally:
             driver.find_element_by_link_text("Exoscale: Die Europäische Cloud Infrastruktur").click()
-            pass
+            
 
 
 
